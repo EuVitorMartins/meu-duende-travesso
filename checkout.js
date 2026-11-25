@@ -1,4 +1,4 @@
-const checkoutUrl = "";
+const checkoutUrl = "https://pay.wiapy.com/QIcIA92JzjzV";
 const checkout = document.querySelector("#checkout");
 const checkoutStatus = document.querySelector("#checkout-status");
 
